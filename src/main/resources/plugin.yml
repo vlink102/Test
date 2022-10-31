@@ -1,0 +1,6 @@
+name: Test
+version: '${project.version}'
+main: me.vlink102.test.test.Test
+api-version: 1.19
+prefix: Test
+description: Test
